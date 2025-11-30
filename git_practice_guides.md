@@ -26,6 +26,7 @@ We will focus on:
    ```bash
    git config --list --show-origin
    ```
+   to exit pre "q"
 
 2. Set your global identity (if needed):
 
